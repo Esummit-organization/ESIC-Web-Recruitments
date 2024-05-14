@@ -8,15 +8,12 @@
 1. Candidates can choose to take up any number of tasks.
 	* There is **no limit** to the number of candidates that can apply for a task.
 	* It is recommended to take up additional tasks only after **successful completion** of the one task.  
- 	* Candidates can optionally pair up to complete tasks that are labelled as **hard**. However, if selected, the interviews will be taken individually and candidates will be evaluated based on individual contributions.  
 	* Feel free to contact the mentor for clarifications regarding a task, ask for tips if you get stuck somewhere, or take feedback and improve your task.
-3. After the selection of a task by candidates, they should create a **private GitHub repository** and add the mentors as a collaborator.
+2. After the selection of a task by candidates, they should create a **private GitHub repository** and add the mentors as a collaborator.
 	* If you are working on multiple tasks, create **separate private repositories** for each task.
-	* In case you are working on a hard task in pairs, then any one candidate can create the repository and both can collaborate on the same repository. Both candidates can share the same link to it later while submitting.
-4. Start working on the task
+3. Start working on the task
 	* Feel free to contact the mentor(s) and discuss anything related to the task.
 	* Follow the practices mentioned in the Evaluation Criteria below.
-5. For the final submission, check the Submission section below.
 
 ### Evaluation Criteria
 * **Effort**: Main criteria for judgement. It is perfectly fine if you have no experience in the field and trying it out for the first time. Sincere efforts are appreciated and will be considered during evaluation.
