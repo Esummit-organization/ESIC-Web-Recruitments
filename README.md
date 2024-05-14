@@ -1,4 +1,4 @@
-# ESIC NITK Web Recruitments 2023
+# ESIC NITK Web Recruitments 2024
 
 ### Recruitment Tasks
 * **Visit** : [Tasks](./Tasks.md)
