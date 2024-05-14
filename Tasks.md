@@ -15,6 +15,8 @@
 ## Task ID: Responsive Landing Page
 #### `UI/UX` , `Web-Development` , `Frontend-Development`
 
+Mentors: [Mardav Gandhi](https://github.com/marcdhi) ([+91 9033398366](https://wa.me/919033398366)), [@Ayush Kumar Singh](https://github.com/Ayush4345) ([+91 9334352548](https://wa.me/919334352548)), [@Anshuman](https://github.com/anshumanNitk) ([+91 9175954118](https://wa.me/919175954118))
+
 Tag: `Easy`
 
 ### Description
