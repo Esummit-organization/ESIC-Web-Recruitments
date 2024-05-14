@@ -2,7 +2,7 @@
 
 ### Recruitment Tasks
 * **Visit** : [Tasks](./Tasks.md)
-* Submission Deadline: **17th May, 2024, 11:59pm**
+* Submission Deadline: **18th May, 2024, 11:59pm**
 
 ### Instructions
 1. Candidates can choose to take up any number of tasks.
