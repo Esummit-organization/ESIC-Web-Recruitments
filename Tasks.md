@@ -68,5 +68,4 @@ Design and develop a visually appealing blog website. A blog is a platform where
 1. You are not limited by any language or technology.
 2. The primary focus is on the UI and Implementation of Blogs Rendering.
 3. Choose a clean and intuitive layout for easy navigation.
-4. Incorporate features such as search functionality, category tags, and social media sharing options.
-5. Ensure that the design complements the content and reflects the overall theme or purpose of the blog.
+4. Ensure that the design complements the content and reflects the overall theme or purpose of the blog.
