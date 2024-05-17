@@ -15,6 +15,9 @@
 	* Feel free to contact the mentor(s) and discuss anything related to the task.
 	* Follow the practices mentioned in the Evaluation Criteria below.
 
+### Submission 
+* Submit your GitHub Private repo [here](https://forms.gle/uA71xSLxHQRHGiz47). Make sure to add all the mentors as collaborators!
+
 ### Evaluation Criteria
 * **Effort**: Main criteria for judgement. It is perfectly fine if you have no experience in the field and trying it out for the first time. Sincere efforts are appreciated and will be considered during evaluation.
 * Follow good development practices:
